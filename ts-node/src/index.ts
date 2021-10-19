@@ -11,7 +11,7 @@ const onix = new Pokemon('Onix')
 // charmander.savePokenToDB(-1)
 
 
-charmander.publicApi = 'daca-code';
+// charmander.publicApi = 'daca-code';
 
 // console.log(pickachu);
 // console.log(onix);

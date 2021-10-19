@@ -57,7 +57,7 @@ function readOnly( isWriteable: boolean = true ): Function {
                 })
             }
         }
-
+        TypeScript: Tu completa guía y manual de mano (Edición 2021)
         return descriptor;
     }
 }
